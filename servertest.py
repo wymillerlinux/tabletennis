@@ -1,15 +1,11 @@
 '''
 Miller Ping Test program
-Written by Wyatt Miller
+Written by Wyatt Miller (wjmiller2016@gmail.com)
 Copyright 2016, licensed by the MIT license
 
 Out of inspriation, I used Python to create a ping test program that runs
 on a time scheduler (i.e. cron) and reports the total ping successes or
 failures on servers/workstations that has been tested.
-
-todo: sys.exit(0) apllies everywhere where ping exits succesfully, that's a 
-problem, fix it
-done: create a function that keeps everything tidy, this is spaghetti code
 ''' 
 import os
 import sys
