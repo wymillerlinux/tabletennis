@@ -5,5 +5,5 @@ An automatic ping program that reports back saying how many successes or failure
 You can run this program while in the current directory:
 `python servertest.py`
 
-Don't have (Python 2?)[https://www.python.org/downloads/source/]
-Email me (here!)[mailto:wjmiller2016@gmail.com]
+Don't have [Python 2?](https://www.python.org/downloads/source/)
+Email me [here!](mailto:wjmiller2016@gmail.com)
