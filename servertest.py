@@ -40,6 +40,11 @@ def pingtest(hostname, servername):
         print servername, 'is down!'
         failure += 1
 
+'''
+This is the space that will write the pingtest function to a file which
+will write the ping results to a file.
+'''
+
 print "Miller Ping Test program, Copyright Wyatt Miller 2016-2017"
 print "Testing to see if all servers that are in your home/office/enterprise are"
 print "running!"
