@@ -7,7 +7,6 @@ Out of inspriation, I used Python to create a ping test program that runs
 on a time scheduler (i.e. cron) and reports the total ping successes or
 failures on servers/workstations that has been tested.
 
-todo: make this program run on all operating systems (i.e nt, posix, os2, etc.)
 todo: add function that reads output to file
 '''
 
